@@ -1,0 +1,9 @@
+{
+  "prettier.parser": "typescript",
+  "prettier.quoteProps": "consistent",
+  "prettier.semi": false,
+  "editor.formatOnType": true,
+  "editor.defaultFormatter": "svipas.prettier-plus",
+  "editor.wordWrapColumn": 60,
+  "prettier.printWidth": 60
+}
